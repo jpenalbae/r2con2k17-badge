@@ -1,0 +1,19 @@
+{
+  "name": "r2con2k17-backend",
+  "version": "1.0.0",
+  "description": "Backend services for the r2con 2017 badge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "r2con",
+    "badge"
+  ],
+  "author": "Jaime Peñalba Estébanez",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "github": "^10.0.0",
+    "struct": "0.0.12"
+  }
+}
